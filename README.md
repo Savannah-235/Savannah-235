@@ -10,3 +10,5 @@ Welcome to my Data Portfolio. Below are my featured data analytics projects:
 ### Web Crawling & Data Processing
 * **[NHL Hockey Team Analytics](https://github.com/Savannah-235/nhl-hockey-team-analytics)**: An automated web crawling backend engine built in Python utilising Scrapy to extract and clean live multi-page hockey telemetry data into JSON schemas and a Power BI dashboard.
 
+### Python Data Engineering Pipelines
+* **[Quotes Scraper Project](https://github.com/Savannah-235/quote-scraper-project)**: A complete data engineering workflow that scrapes quotes data from a live sandbox site, using pure Python flat-file operations to cleanse text, engineer custom word-count metrics, and format data for Excel.
